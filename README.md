@@ -1,6 +1,6 @@
 <center><h1>AILearning（机器学习实战）</h1></center>
 
-> Special Sponcers
+> Special Sponsers
 
 <table>
       <tbody>
